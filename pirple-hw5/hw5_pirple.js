@@ -13,7 +13,6 @@ const timeAdder = (val1, lab1, val2, lab2) => {
             return true;
         }
         else {
-            console.log('false executed');
             return false;
         }
     }
@@ -44,7 +43,7 @@ const timeAdder = (val1, lab1, val2, lab2) => {
 
         }
         else {
-            console.log('false EXECUTED');
+            
             return false;
         }
     }
